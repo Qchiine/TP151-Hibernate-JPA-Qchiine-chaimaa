@@ -1,0 +1,6 @@
+![01-etape1-migration-du-schema](images/01-etape1-migration-du-schema.png)
+![02-etape2-jeu-de-donnees-et-etape3-cache-second-niveau](images/02-etape2-jeu-de-donnees-et-etape3-cache-second-niveau.png)
+![03-etape4-equivalence-jpql-criteria](images/03-etape4-equivalence-jpql-criteria.png)
+![04-etape6-creation-des-creneaux-libres](images/04-etape6-creation-des-creneaux-libres.png)
+![05-etape7-rapport-de-performance](images/05-etape7-rapport-de-performance.png)
+![06-suite-de-tests-23-sur-23-et-build-success](images/06-suite-de-tests-23-sur-23-et-build-success.png)
